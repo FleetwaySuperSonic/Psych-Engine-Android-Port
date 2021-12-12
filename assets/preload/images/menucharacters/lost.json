@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_lost",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M lost Idle",
+	"confirm_anim": "M lost Idle"
+}
