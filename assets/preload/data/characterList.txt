@@ -2,8 +2,9 @@ bf
 dad
 gf
 sonicexe
-
-
-
-
-
+pico
+mom
+bf-pixel
+gf-pixel
+senpai
+pico-player
